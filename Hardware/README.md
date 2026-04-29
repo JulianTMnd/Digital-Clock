@@ -1,12 +1,14 @@
 # ESP32 Digital Clock & Environmental Monitor
 
+## Video Demonstration
+Click the link below for a technical walkthrough of the hardware architecture, schematic design, and PCB layout:
+
+[📺 Watch the Technical Breakdown on YouTube](https://youtu.be/e1sG0Mtcq2o?si=rC8vcgdVCtxD3gNJ)
+
 ## Project Overview
 This project is a high-precision digital clock and environmental monitor powered by the ESP32 microcontroller. It showcases professional-grade hardware design and firmware integration, focusing on scalability, safety, and manufacturing efficiency.
 
 <img width="3840" height="2160" alt="Clock_02" src="https://github.com/user-attachments/assets/f720be08-d9a5-44eb-9a88-c9621108551c" />
-
-
-
 
 
 ## Hardware Engineering
@@ -42,11 +44,6 @@ To ensure a clean and scalable architecture, the system was designed using a **H
 
 <img width="765" height="601" alt="pcb_layout" src="https://github.com/user-attachments/assets/85ab183c-e2d0-49b9-8e7a-8f78f3efcae0" />
 
-
-## Video Demonstration
-Click the link below for a technical walkthrough of the hardware architecture, schematic design, and PCB layout:
-
-[📺 Watch the Technical Breakdown on YouTube](https://youtu.be/e1sG0Mtcq2o?si=rC8vcgdVCtxD3gNJ)
 
 ---
 *Developed by Julián Junior Torres Maldonado - Mechatronics Engineer*
