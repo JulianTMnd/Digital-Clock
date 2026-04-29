@@ -1,0 +1,13 @@
+/build
+sdkconfig
+sdkconfig.old
+
+# Ignorar archivos de configuración local del ESP32
+sdkconfig
+sdkconfig.old
+
+# Ignorar archivos del IDE (Eclipse / Espressif IDE / Clang)
+.settings/
+.cproject
+.project
+.clangd
