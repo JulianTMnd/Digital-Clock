@@ -38,7 +38,7 @@ To ensure a clean and scalable architecture, the system was designed using a **H
 * **Optimized Routing:** Communication traces were kept as short as possible to minimize noise and parasitic effects.
 * **Space Optimization:** A "Bottom-Heavy" SMD placement strategy was used, keeping most components on the bottom layer to allow for a compact form factor and a clean top-side display interface.
 
-### High-Voltage Safety (110V/100V)
+### High-Voltage Safety (110V)
 * **Isolation Zones:** A significant physical clearance was maintained between the 110V AC input and the low-voltage DC logic.
 * **No Ground Plane in HV Area:** To prevent arcing and electromagnetic interference (EMI) coupling into the logic circuits, the ground plane was intentionally removed from the high-voltage section.
 
