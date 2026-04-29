@@ -1,6 +1,6 @@
 # Firmware Architecture & Implementation
 
-This directory contains the Csource code for the ESP32 digital clock. The firmware was developed natively using the **ESP-IDF** framework and is built around **FreeRTOS** to ensure modularity, and real-time execution.
+This directory contains the C source code for the ESP32 digital clock. The firmware was developed natively using the **ESP-IDF** framework and is built around **FreeRTOS** to ensure modularity, and real-time execution.
 
 ## Core Features & Engineering Decisions
 
